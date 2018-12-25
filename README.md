@@ -1,2 +1,2 @@
 # Basics_Keras
-Basics of Keras Library
+Scribbles#7 : Basics of Keras Library
