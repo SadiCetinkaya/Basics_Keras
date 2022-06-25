@@ -3,7 +3,7 @@ import numpy as np
 from keras.datasets import mnist
 from keras.models import Sequential
 from keras.layers.core import Dense, Activation
-from keras.optimizers import SGD
+from tensorflow.keras.optimizers import SGD
 from keras.utils import np_utils
 
 np.random.seed(1671)  # for reproducibility
